@@ -509,3 +509,5 @@ export default function InventoryApp() {
     </div>
   );
 }
+
+// https://github.com/ironman07017-lang/vibeosys-inventory.git
